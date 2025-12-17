@@ -37,7 +37,7 @@ Refer the [Blog on Hackster](https://www.hackster.io/maheshyadav216/crowpanel-ad
 📒 **Important Links**  
  
 🌐 Elecrow Store - 🔗 https://www.elecrow.com  
-📒 GitHub Documentation 
+📒 GitHub Documentation  
 🔗 https://github.com/Elecrow-RD/CrowPanel-Advance-7-HMI-ESP32-S3-AI-Powered-IPS-Touch-Screen-800x480  
 🔑 Resources 🔗 https://www.elecrow.com/pub/wiki/ESP32_Display-7.0_inch%28Advance_Series%29wiki.html  
 ⚙️ Demos 🔗 https://youtu.be/W3LHGZRx7Jw?list=PLwh4PlcPx2Gfrtm7TmlARyF4ccTmIy-gK  
@@ -52,7 +52,8 @@ Refer the [Blog on Hackster](https://www.hackster.io/maheshyadav216/crowpanel-ad
 
 🌐 GitHub Repository - 🔗 https://github.com/maheshyadav216/CrowPanel-Advance-7-HMI-ESP32S3-AI-Display     
   
-🌐 Hackster Blog - 🔗 https://www.hackster.io/maheshyadav216/crowpanel-advance-7-hmi-esp32-s3-ips-touch-screen-display-151e17   
+🌐 Hackster Blog -  
+🔗 https://www.hackster.io/maheshyadav216/crowpanel-advance-7-hmi-esp32-s3-ips-touch-screen-display-151e17   
   
 ------------------------------------------------------------------------------------------  
 
