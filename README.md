@@ -21,7 +21,7 @@ Refer the [Blog on Hackster](https://www.hackster.io/maheshyadav216/crowpanel-ad
 - ESP-IDF  
     [Wiki Page for Info](https://www.elecrow.com/pub/wiki/ESP32_Display-7.0_inch(Advance_Series)wiki.html#resources)  
     [Version 1.3 ESP-IDF Tutorial](https://www.elecrow.com/pub/wiki/HMI_Display_course_esp_idf.html#version-13)     
-- PlatformIO 
+- PlatformIO  
     [Wiki Page for Info](https://www.elecrow.com/pub/wiki/ESP32_Display-7.0_inch(Advance_Series)wiki.html#resources)  
     [Version 1.3 PlatformIO Tutorial](https://www.elecrow.com/pub/wiki/CrowPanel_advance_ESP32_AI_display_with_PlatformIO_V13.html)    
   
@@ -37,12 +37,14 @@ Refer the [Blog on Hackster](https://www.hackster.io/maheshyadav216/crowpanel-ad
 📒 **Important Links**  
  
 🌐 Elecrow Store - 🔗 https://www.elecrow.com  
-📒 GitHub Documentation 🔗 https://github.com/Elecrow-RD/CrowPanel-Advance-7-HMI-ESP32-S3-AI-Powered-IPS-Touch-Screen-800x480  
+📒 GitHub Documentation 
+🔗 https://github.com/Elecrow-RD/CrowPanel-Advance-7-HMI-ESP32-S3-AI-Powered-IPS-Touch-Screen-800x480  
 🔑 Resources 🔗 https://www.elecrow.com/pub/wiki/ESP32_Display-7.0_inch%28Advance_Series%29wiki.html  
 ⚙️ Demos 🔗 https://youtu.be/W3LHGZRx7Jw?list=PLwh4PlcPx2Gfrtm7TmlARyF4ccTmIy-gK  
 
 🛒 Hardware Purchase Links -
-[CrowPanel Advance 7“ HMI| ESP32-S3 AI-Powered IPS Touch Screen]  🔗 https://www.elecrow.com/crowpanel-advance-7-hmi-esp32-ai-display-800x480-ai-ips-touch-screen.html  
+[CrowPanel Advance 7“ HMI| ESP32-S3 AI-Powered IPS Touch Screen]  
+🔗 https://www.elecrow.com/crowpanel-advance-7-hmi-esp32-ai-display-800x480-ai-ips-touch-screen.html  
    
 ------------------------------------------------------------------------------------------------------
 
