@@ -1,7 +1,7 @@
 # CrowPanel-Advance-7-HMI-ESP32S3-AI-Display
 Getting Started with CrowPanel Advance 7.0-HMI ESP32 AI Display 
   
-<img src="/Images/HMI-tab-hackster-Thumb.png" height="200">
+<img src="/Images/hw-overview.png" height="250"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/HMI-tab-hackster-Thumb.png" height="250">
   
 The **Elecrow CrowPanel Advance 7.0-inch** serves as a Human-Machine Interface (HMI) display intended for diverse Internet of Things (IoT) applications. It features an ESP32-S3-WROOM-1 module, equipped with a 240 MHz dual-core microprocessor, 16MB Flash memory, and 8MB PSRAM, providing sufficient power for graphical interfaces and demanding processes. The display is an 800x480 resolution IPS capacitive touch screen that delivers vibrant visuals and a broad 178° viewing angle. The device includes artificial intelligence (AI) functions, such as an integrated microphone and speaker, to enable voice control and interaction. This blend of strong processing ability and user-friendly interface characteristics makes it appropriate for projects needing advanced display and input features. You can find more information on the Elecrow website.
   
